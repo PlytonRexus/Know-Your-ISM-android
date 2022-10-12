@@ -1,5 +1,4 @@
-## Know Your ISM 
-#### *College Grievance Redressal System*
+## Know Your ISM and *College Grievance Redressal System*
 
 Know Your ISM (KYI) is set of multiple useful services that we will list in the coming few pages. All of these stem from one single cloud-based dataset of students, professors, officials,  workers, alumni, locations and clubs across IIT (ISM) Dhanbad.
 - ✨ KYI is like the MIS. But much faster, more extensive, more featured and vastly more accessible than the latter.
